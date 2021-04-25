@@ -1,2 +1,4 @@
-node_modules
+node_modules/
+logs/
 .env
+UNIZAP_WA.data.json
