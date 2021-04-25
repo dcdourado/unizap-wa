@@ -1,0 +1,11 @@
+{
+  "name": "wa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dcdourado/unizap-wa.git",
+  "author": "Diogo Dourado <dcdourado@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@open-wa/wa-automate": "^3.11.4"
+  }
+}
